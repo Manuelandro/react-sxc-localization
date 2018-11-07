@@ -1,0 +1,21 @@
+{
+    "en": {
+        "test1": "test1",
+        "test2": "test2",
+        "test3": {
+            "testA": "testA",
+            "testB": "testB",
+            "testC": "testC"
+        }
+    },
+
+    "it": {
+        "test1": "testo1",
+        "test2": "testo2",
+        "test3": {
+            "testA": "testoA",
+            "testB": "testoB",
+            "testC": "testoC"
+        }
+    }
+}

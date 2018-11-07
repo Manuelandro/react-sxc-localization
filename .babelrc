@@ -1,0 +1,18 @@
+{
+    "presets": [
+        [
+            "@babel/env",
+            {
+                "targets": {
+                    "edge": "17",
+                    "firefox": "58",
+                    "chrome": "60",
+                    "safari": "11.1",
+                    "ie": "10"
+                },
+                "useBuiltIns": "usage"
+            }
+        ]
+    ],
+    "plugins": ["@babel/plugin-transform-react-jsx"]
+}
